@@ -16,4 +16,4 @@ class Atendimentos {
     }
 }
 
-module.exports = new Atendimento
+module.exports = new Atendimentos
